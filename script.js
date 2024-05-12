@@ -88,7 +88,7 @@ gameOn.addEventListener("click", () => {
     } else if (clickCount == 3) {
         finalValue.innerHTML = `
         <img src='${displayRandomImage()}' style="width:235px; height:235px; margin-top: 3%;" alt="" id="photo">
-        <button style='background:#000;'> <a  style='color:white;'href='https://qed.adsleadone.fun/?utm_medium=7384ab7f1d54043f802d744606bf6d89c1ebe0bd&utm_campaign=target_DZ_c73bc53gla'>مبروك كسبت معانا</a></button>
+        <button style='background:#000;'> <a  style='color:white;'href='https://qed.adsleadone.fun/?utm_medium=3d453e5c9f893ba6f721647b8c459c6599f86f47&utm_campaign=target_DZ_4abb6aLafaaa'>مبروك كسبت معانا</a></button>
         `;
     }
 
